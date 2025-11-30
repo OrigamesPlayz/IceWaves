@@ -16,6 +16,6 @@ This game was made for Hackclub Siege Week 13 for the theme of Winter and I pers
 
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/38376b1c-1189-42c9-85be-26b105dafa4b" />
 
-https://youtu.be/ksqqpKy318U
+
 
 This took a LONG time to get my head around but in the end I managed to complete a fully customizable system of waves and enemies. Anyone who wants it feel free to download :).
